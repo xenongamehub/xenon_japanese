@@ -104,5 +104,6 @@ QBShared.Items = {
    }},
 
 ```
+## my discord: discord.com/5nNzAA7VtJ
 # ko-fi https://ko-fi.com/xenongamestore
 ## Add the 2 .ogg files in [sounds] to interact-sound/client/html/sounds
