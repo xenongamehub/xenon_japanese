@@ -1,4 +1,5 @@
 # Xenon-japanese for QBCore Framework.
+# Rework from randol_burgersho.
 ```
 ##  MLO: https://www.youtube.com/watch?v=MM2fFcFkE-A
 
