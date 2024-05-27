@@ -56,7 +56,7 @@ RegisterNetEvent('xenon_japanese:client:open', function()
     })
 end)
 
-Citizen.CreateThread(function()
+RegisterNetEvent('xenon_japanese:client:open', function()
 exports['qb-target']:AddBoxZone("jmenu", vector3(-171.0, 295.97, 93.09), 0.5, 0.4, {
     name="jmenu",
     debugpoly = false,
